@@ -1,0 +1,23 @@
+{
+  "name": "carracingstage0.5",
+  "version": "1.0.0",
+  "description": "hurdles",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitehatjr/carRacingStage0.5.git"
+  },
+  "author": "\u001b[A\u001b[B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitehatjr/carRacingStage0.5/issues"
+  },
+  "homepage": "https://github.com/whitehatjr/carRacingStage0.5#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
